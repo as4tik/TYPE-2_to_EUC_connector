@@ -79,6 +79,8 @@ For the moment, when this description is made, there were tested a few times wit
 ## Chart of connection
 ![image](https://github.com/user-attachments/assets/66833b4f-4683-4e7e-a4d2-6a4955e395dc)
 
+## How to check?
+![image](https://github.com/user-attachments/assets/5136d82f-e202-40fb-89c1-9e3a2ba4ff2d)
 
 
 ## Additional actions
