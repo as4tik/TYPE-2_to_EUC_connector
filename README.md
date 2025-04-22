@@ -51,14 +51,12 @@ For the moment, when this description is made, there were tested a few times wit
    - Specs
      - 2.74 kOhm
    - Example
-     - ![image](https://github.com/user-attachments/assets/3ca18027-13b3-4718-9764-45f835617715)
      - [URL1](https://www.amazon.com/2-74K-Metal-Resistor-Piece-271-2-74K-RC/dp/B07GPFHFCN)
      - [URL2](https://vseplus.com/ua/product/radiodetali-mikroshemy/294-rezistory-potenciometry-kvarcevye-rezonatory/f-p140_24355-p81_25143)
 5. Resistor "Stage C"
    - Specs
      - 1.3 kOhm
    - Example
-     - ![image](https://github.com/user-attachments/assets/60c84c1c-0356-4318-8976-3c7359662ff7)
      - [URL1](https://www.amazon.com/uxcell-Tolerance-Resistance-Electronic-Experiments/dp/B07PPVDHN8)
      - [URL2](https://epts.com.ua/ua/p1110345629-rezistor-mlt-0125.html)
 6. Switch
