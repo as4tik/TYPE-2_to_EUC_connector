@@ -20,60 +20,82 @@ For the moment, when this description is made, there were tested a few times wit
 ## List of components
 
 1. Type-2 connector
-  * Specs
-    * Type-2 (for my location as the most widespread)
-    * Male (for my location as the most widespread)
-    * 3 phases
-    * 32A (the contact pins will be for 6 mm2, if you by 16A the pins will be for 2.5 mm2)
-  * Example
-    * [URL](https://a.aliexpress.com/_ExlY7cO)
-    * ![image](https://github.com/user-attachments/assets/3b6ad6c7-9cfe-4858-a460-cb37da181c0e)
-    * ![image](https://github.com/user-attachments/assets/9fff3809-4be0-449d-bb1c-9b77d4ef7690)
+   - Specs
+     - Type-2 (for my location as the most widespread)
+     - Male (for my location as the most widespread)
+     - 3 phases
+     - 32A (the contact pins will be for 6 mm2, if you by 16A the pins will be for 2.5 mm2)
+   - Example
+     - [URL](https://a.aliexpress.com/_ExlY7cO)
+     - ![image](https://github.com/user-attachments/assets/3b6ad6c7-9cfe-4858-a460-cb37da181c0e)
+     - ![image](https://github.com/user-attachments/assets/9fff3809-4be0-449d-bb1c-9b77d4ef7690)
 
 2. The main wires
-   * Specs
-     * AWG10
-     * length 0.3 m
-     * silicon cover
-     * optional:
-       * soldered to XT60 female
-   * Example
-     * [URL](https://a.aliexpress.com/_EItfFi2)
-     * ![image](https://github.com/user-attachments/assets/e383f741-4dc6-4243-bb04-241e92cca410)
+   - Specs
+     - AWG10
+     - length 0.3 m
+     - silicon cover
+     - optional:
+       - soldered to XT60 female
+   - Example
+     - [URL](https://a.aliexpress.com/_EItfFi2)
+     - ![image](https://github.com/user-attachments/assets/e383f741-4dc6-4243-bb04-241e92cca410)
        
 3. Resistor of max load
-   * Specs
-     * 220 Ohm
-   * Example
-     * [URL1](https://www.amazon.com/Projects-Resistors-Watt-Choose-Quantity/dp/B00CVZ3YOQ?th=1)
-     * [URL2](https://imrad.com.ua/ua/pr01-220r-5)
+   - Specs
+     - 220 Ohm
+   - Example
+     - [URL1](https://www.amazon.com/Projects-Resistors-Watt-Choose-Quantity/dp/B00CVZ3YOQ?th=1)
+     - [URL2](https://imrad.com.ua/ua/pr01-220r-5)
 5. Resistor "Stage B"
-   * Specs
-     * 2.74 kOhm
-   * Example
-     * ![image](https://github.com/user-attachments/assets/3ca18027-13b3-4718-9764-45f835617715)
-     * [URL1](https://www.amazon.com/2-74K-Metal-Resistor-Piece-271-2-74K-RC/dp/B07GPFHFCN)
-     * [URL2](https://vseplus.com/ua/product/radiodetali-mikroshemy/294-rezistory-potenciometry-kvarcevye-rezonatory/f-p140_24355-p81_25143)
+   - Specs
+     - 2.74 kOhm
+   - Example
+     - ![image](https://github.com/user-attachments/assets/3ca18027-13b3-4718-9764-45f835617715)
+     - [URL1](https://www.amazon.com/2-74K-Metal-Resistor-Piece-271-2-74K-RC/dp/B07GPFHFCN)
+     - [URL2](https://vseplus.com/ua/product/radiodetali-mikroshemy/294-rezistory-potenciometry-kvarcevye-rezonatory/f-p140_24355-p81_25143)
 6. Resistor "Stage C"
-   * Specs
-     * 1.3 kOhm
-   * Example
-     * ![image](https://github.com/user-attachments/assets/60c84c1c-0356-4318-8976-3c7359662ff7)
-     * [URL1](https://www.amazon.com/uxcell-Tolerance-Resistance-Electronic-Experiments/dp/B07PPVDHN8)
-     * [URL2](https://epts.com.ua/ua/p1110345629-rezistor-mlt-0125.html)
-8. Stage selector
-   * Specs
-   * Example
+   - Specs
+     - 1.3 kOhm
+   - Example
+     - ![image](https://github.com/user-attachments/assets/60c84c1c-0356-4318-8976-3c7359662ff7)
+     - [URL1](https://www.amazon.com/uxcell-Tolerance-Resistance-Electronic-Experiments/dp/B07PPVDHN8)
+     - [URL2](https://epts.com.ua/ua/p1110345629-rezistor-mlt-0125.html)
+8. Switch
+   - Specs
+     - A simple switch with 2 contacts
+   - Example
+     - ![image](https://github.com/user-attachments/assets/69253b10-ff74-4c31-a425-450f670260c1)
+     - ![image](https://github.com/user-attachments/assets/73387a6d-8ced-4b73-894b-309f200f44a1)
+     - [URL1](https://www.amazon.com/DaierTek-250VAC-Rocker-KCD1-101-Plastic/dp/B07S2QJKTX)
 10. Diode
-   * Specs
-     * Model: 1N4007 | 1N4148
-   * Example
-     * ![image](https://github.com/user-attachments/assets/78bd2980-33e5-48c7-b84b-67c248f8dc26)
-     * [URL1](https://www.amazon.com/100-Pieces-1N4148-Switching-High-Speed/dp/B079KJ91JZ/ref=sr_1_1)
-     * [URL2](https://imrad.com.ua/ua/1n4148-1-1-437993)
-
-12. 
+    - Specs
+      - Model: 1N4007 | 1N4148
+    - Example
+      - ![image](https://github.com/user-attachments/assets/78bd2980-33e5-48c7-b84b-67c248f8dc26)
+      - [URL1](https://www.amazon.com/100-Pieces-1N4148-Switching-High-Speed/dp/B079KJ91JZ/ref=sr_1_1)
+      - [URL2](https://imrad.com.ua/ua/1n4148-1-1-437993) 
 
 ## Chart of connection
+![image](https://github.com/user-attachments/assets/66833b4f-4683-4e7e-a4d2-6a4955e395dc)
+
+
+
+## Additional actions
+   - Action:
+     - To cut out the last piece of the black plastic body
+   - Restriction:
+     - a few millimetres away from the contacts
+   - Reason:
+     - to use both types of type-2 stations: as a socket and as a plug.
+   - ![image](https://github.com/user-attachments/assets/e840a113-fe82-49e7-a8f1-07dca36e552f)
+   - ![image](https://github.com/user-attachments/assets/896e5efd-7746-4b21-be3b-fe181e343290)
+   - ![image](https://github.com/user-attachments/assets/890303e6-bd36-4768-8e4b-2298ccd9d388)
+   - ![image](https://github.com/user-attachments/assets/f05557ef-4dc9-4ad3-9814-5269cbb278d3)
+
+
+
+
+
 
 
