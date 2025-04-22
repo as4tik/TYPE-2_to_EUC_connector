@@ -15,7 +15,28 @@ For multiple slots, it is important that each socket between EUC and the chargin
 
 For the moment, when this description is made, there were tested a few times with 5 EUCs max with no heating of the connectors, registered. This description will be updated after 9 and 12 EUCs have been tested.
 
+![5EUCs_on_charge](https://github.com/user-attachments/assets/749e6c8d-c3f2-4a5a-9758-fee6f05d7618)
+
 ## List of components
 
-* fasdf
-* sdfsdf
+1. Type-2 connector
+  * Specs
+    * Type-2 (for my location as the most widespread)
+    * Male (for my location as the most widespread)
+    * 3 phases
+    * 32A (the contact pins will be for 6 mm2, if you by 16A the pins will be for 2.5 mm2)
+  * Example
+    * [URL]([url](https://a.aliexpress.com/_ExlY7cO))
+    * ![Type-2_connector](https://github.com/user-attachments/assets/7b3df7fd-a1c3-47d6-91e5-fcc83e519a40)
+
+2. The main wires
+   * Specs
+     * AWG10
+     * length 0.3 m
+     * silicon cover
+     * optional:
+       * soldered to XT60 female
+   * Example
+     * [URL]([url](https://a.aliexpress.com/_EItfFi2))
+     * ![Wires](https://github.com/user-attachments/assets/97747fc6-5264-4b88-9079-c2d6c5e9157d)
+
