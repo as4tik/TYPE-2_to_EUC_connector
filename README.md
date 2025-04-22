@@ -26,7 +26,7 @@ For the moment, when this description is made, there were tested a few times wit
     * 3 phases
     * 32A (the contact pins will be for 6 mm2, if you by 16A the pins will be for 2.5 mm2)
   * Example
-    * [URL]([url](https://a.aliexpress.com/_ExlY7cO))
+    * [URL](https://a.aliexpress.com/_ExlY7cO)
     * ![image](https://github.com/user-attachments/assets/3b6ad6c7-9cfe-4858-a460-cb37da181c0e)
     * ![image](https://github.com/user-attachments/assets/9fff3809-4be0-449d-bb1c-9b77d4ef7690)
 
@@ -39,35 +39,35 @@ For the moment, when this description is made, there were tested a few times wit
      * optional:
        * soldered to XT60 female
    * Example
-     * [URL]([url](https://a.aliexpress.com/_EItfFi2))
+     * [URL](https://a.aliexpress.com/_EItfFi2)
      * ![image](https://github.com/user-attachments/assets/e383f741-4dc6-4243-bb04-241e92cca410)
        
 3. Resistor of max load
    * Specs
-    * 220 Ohm
+     * 220 Ohm
    * Example
-    * [URL1]([url](https://www.amazon.com/Projects-Resistors-Watt-Choose-Quantity/dp/B00CVZ3YOQ?th=1))
-    * [URL2]([url](https://imrad.com.ua/ua/pr01-220r-5))
+     * [URL1](https://www.amazon.com/Projects-Resistors-Watt-Choose-Quantity/dp/B00CVZ3YOQ?th=1)
+     * [URL2](https://imrad.com.ua/ua/pr01-220r-5)
 5. Resistor "Stage B"
    * Specs
-    * 2.74 kOhm
+     * 2.74 kOhm
    * Example
-    * N/A
+     * N/A
 6. Resistor "Stage C"
    * Specs
-    * 1.3 kOhm
+     * 1.3 kOhm
    * Example
-    * N/A
+     * N/A
 8. Stage selector
    * Specs
    * Example
 10. Diode
    * Specs
-    * Model: 1N4007 | 1N4148
+     * Model: 1N4007 | 1N4148
    * Example
-    * ![image](https://github.com/user-attachments/assets/78bd2980-33e5-48c7-b84b-67c248f8dc26)
-    * [URL1]([url]([https://www.amazon.com/100-Pieces-1N4148-Switching-High-Speed)](https://www.amazon.com/100-Pieces-1N4148-Switching-High-Speed/dp/B079KJ91JZ/ref=sr_1_1?crid=7F9UXVJ4DBIO&dib=eyJ2IjoiMSJ9.1fnBlHWpSlTm7_T4nDJkQv_NWIJQDI89MPpRfQYeTIiKv4OvbmI5dljzklTpVQpzuI0DAoESTevvvxKZk0rpTG7jQBYhCjfzbWCTBGfaUy8a5O_R6LSPBDWV5CCtu7OQNWB3hMRpkvqIusB72r23ekudy67zR2m73EXJ5d1JzK0RSkX2PQIhMhDt_OcGobMCwDvrGdGlJi54i3c5-3mOGwITGlySYKT08Fd-ZW8Pca4.TbQVs0YZR2Zqdf1HlXCcKtWoaJtlqMhw3HOXsPd55Y8&dib_tag=se&keywords=1n4148&qid=1745347427&sprefix=1N4148%2Caps%2C471&sr=8-1))
-    * [URL2]([url](https://imrad.com.ua/ua/1n4148-1-1-437993))
+     * ![image](https://github.com/user-attachments/assets/78bd2980-33e5-48c7-b84b-67c248f8dc26)
+     * [URL1](https://www.amazon.com/100-Pieces-1N4148-Switching-High-Speed/dp/B079KJ91JZ/ref=sr_1_1)
+     * [URL2](https://imrad.com.ua/ua/1n4148-1-1-437993)
 
 12. 
 
