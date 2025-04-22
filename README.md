@@ -74,13 +74,29 @@ For the moment, when this description is made, there were tested a few times wit
     - Example
       - ![image](https://github.com/user-attachments/assets/78bd2980-33e5-48c7-b84b-67c248f8dc26)
       - [URL1](https://www.amazon.com/100-Pieces-1N4148-Switching-High-Speed/dp/B079KJ91JZ/ref=sr_1_1)
-      - [URL2](https://imrad.com.ua/ua/1n4148-1-1-437993) 
+      - [URL2](https://imrad.com.ua/ua/1n4148-1-1-437993)
+11. XT60 connectors
+   - Specs
+      - Female
+   - Example
+      - ![image](https://github.com/user-attachments/assets/0c6b3df7-ed5a-4bcd-9ad6-d8393e5fdb4d)
+12. 1:3 XT60
+   - Specs
+      - 1 Male to 3 Female
+   - Example
+      - ![image](https://github.com/user-attachments/assets/c66f23b4-7275-4b7f-bad3-10ee4fa50bba)
+      - [URL](https://a.aliexpress.com/_EjiTLKS)
+ 
 
 ## Chart of connection
 ![image](https://github.com/user-attachments/assets/66833b4f-4683-4e7e-a4d2-6a4955e395dc)
 
 ## How to check?
-![image](https://github.com/user-attachments/assets/5136d82f-e202-40fb-89c1-9e3a2ba4ff2d)
+   - The test, before diode is connected:
+      - ![image](https://github.com/user-attachments/assets/7e974030-86a3-4a2d-80c0-7972e7164970)
+   - The test, with diode (full set up):
+      - 
+
 
 
 ## Additional actions
