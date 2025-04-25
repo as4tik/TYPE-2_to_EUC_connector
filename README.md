@@ -72,7 +72,7 @@ For the moment, when this description is made, there were tested a few times wit
       - Voltage: 75v
       - Current 450mA
     - Example
-      - ![image](https://github.com/user-attachments/assets/78bd2980-33e5-48c7-b84b-67c248f8dc26)
+      - ![image](https://github.com/user-attachments/assets/0b63c7c0-df80-4954-a9b6-21680726ed74)
       - [URL1](https://www.amazon.com/100-Pieces-1N4148-Switching-High-Speed/dp/B079KJ91JZ/ref=sr_1_1)
       - [URL2](https://imrad.com.ua/ua/1n4148-1-1-437993)
 8. XT60 connectors
@@ -89,7 +89,7 @@ For the moment, when this description is made, there were tested a few times wit
  
 
 ## Chart of connection
-   - ![image](https://github.com/user-attachments/assets/6dbae1c8-2e5a-40bf-b24a-8ce56490a1d5)
+   - ![image](https://github.com/user-attachments/assets/e70ebd2b-7082-446a-8bc2-6ee1221ec56f)
    - The diode to be connected by anode to CP contact, and by cathode to the resistors
 
 ## How to check?
