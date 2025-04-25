@@ -89,7 +89,8 @@ For the moment, when this description is made, there were tested a few times wit
  
 
 ## Chart of connection
-   - ![image](https://github.com/user-attachments/assets/e70ebd2b-7082-446a-8bc2-6ee1221ec56f)
+   - ![image](https://github.com/user-attachments/assets/4734bf06-d097-41db-a786-af016976ede1)
+
    - The diode to be connected by anode to CP contact, and by cathode to the resistors
 
 ## How to check?
