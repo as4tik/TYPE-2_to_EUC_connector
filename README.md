@@ -95,7 +95,7 @@ For the moment, when this description is made, there were tested a few times wit
 
 ## How to check?
    - The test, before diode is connected:
-      - ![image](https://github.com/user-attachments/assets/7e974030-86a3-4a2d-80c0-7972e7164970)      
+   - ![fmzBCNbbyO](https://github.com/user-attachments/assets/5094a713-87a8-407c-8410-00da0f39c3e3)
    - The test, with diode (full set up):
       - (under construction)
 
